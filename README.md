@@ -1,5 +1,5 @@
 # Amazon-ML-Challenge
-Machine learning challenge
+Machine learning challenge: Tool used (Spyder)
 
 ############################# Brief Summary ############################
 1.  Data Collection and Data Understanding
